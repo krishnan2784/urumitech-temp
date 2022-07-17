@@ -10,7 +10,8 @@ module.exports = () => {
 			url: '/',
 			seo: {
 				cover: '/assets/profile.jpg'
-			}
+			},
+			data: blogs
 		},
 		{ url: '/contact/' },
 		{ url: '/contact/success' }
